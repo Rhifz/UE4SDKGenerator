@@ -25,3 +25,6 @@ Currently Tested on 64Bit Version of BGMI, But can support other games that have
 
 * It will Start generating sdk after 5 second delay, at that time maybe not all objects loaded, so less files will be generated, Increase Delay in Main.cpp to Generate SDK in Lobby.
 * Most of the time you don't need all the cpp files. Add Needed Headers in SDK.hpp.
+
+## Telegram 
+@Dyno0O07
