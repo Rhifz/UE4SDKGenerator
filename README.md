@@ -1,6 +1,5 @@
 ## UE4-SDK-GENERATOR for Android
 UnrealEngine-4 Sdk Generator for Android Devices.
-* Generated SDKs [HERE](https://github.com/D-R-99/UE4SDKGenerator/tree/master/SDKs/)
 * This Tool is just Converted for Android from @KN4CK3R 's UE4SDKGen.
 * Currently Tested on 64Bit Version of BGMI, But can support other games that have EngineVersion from 4.18 to 4.22.
 
@@ -25,5 +24,4 @@ UnrealEngine-4 Sdk Generator for Android Devices.
 ## Notes
 
 * It will Start generating sdk after 5 second delay, at that time maybe not all objects loaded, so less files will be generated, Increase Delay in Main.cpp to Generate SDK in Lobby.
-* Generator.log This file contains the log messages the generator outputs. NamesDump.txt This file is generated if ShouldDumpArrays() is true and it contains all names available in the names array. ObjectsDump.txt This file is generated if ShouldDumpArrays() is true and it contains all objects names available in the objects array. SDK.hpp This file contains all includes you need for the SDK.
 * Most of the time you don't need all the cpp files. Add Needed Headers in SDK.hpp.
