@@ -7,7 +7,7 @@ Currently Tested on 64Bit Version of BGMI, But can support other games that have
 
 * Add Apk's pkgname and other details in Main.h.
 * Add GName and GObject Offsets in Main.h.
-* Change Files in Target Dir according to Game's structure and replace that files in Source Dir.
+
 * Compile all files in the Source Directory (x64 Release).
     -Comiple With AIDE(64bit NDK Support)  -OR-
     -Compile With AndroidStudio (click on ndk.cmd file and RUN, if u have cmd execute plugin Installed.)
